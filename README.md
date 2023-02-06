@@ -19,7 +19,7 @@
 
 - :telescope: I'm a Full-Stack Developer with a passion for building robust and scalable web applications.
 
-- :seedling: Exploring New Technologies.
+- :seedling: Currently building mobile applications using (Swift, Kotlin, and React-Native).
 
 - :zap: In my free time, I build single-page web apps using React.js.
 
