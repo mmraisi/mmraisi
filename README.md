@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   
   <div id="badges">
-  <a href="https://www.linkedin.com/in/mahmoud-mraisi-b65104179/">
+  <a href="https://www.linkedin.com/in/mahmoudmraisi/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
 </div>
@@ -42,5 +42,5 @@
 ---
 
 ### Connect With me :
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/mahmoud-mraisi-b65104179/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mahmoudmraisi/)
 
