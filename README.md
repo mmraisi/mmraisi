@@ -10,7 +10,21 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-:zap: I'm a seasoned Software Engineer with a passion for crafting robust and scalable solutions. Over the years, I've honed my skills in various domains of software development, specializing in backend, frontend, mobile, and data engineering. Here's a brief overview of my technical expertise:
+
+## 👨‍💻 Backend Software Engineer | OAuth and Authentication Specialist 🚀
+
+Dedicated to advancing the backend landscape and specializing in OAuth and authentication design, I am an accomplished Software Engineer currently excelling at Viral Nation. My primary focus lies in architecting secure and efficient systems, with a particular emphasis on crafting robust GraphQL APIs using TypeScript and Node.js.
+
+🔒 Expertise & Specializations:
+
+- Building high-performance GraphQL/RESTFUL APIs with TypeScript Node.js.
+- Specializing in OAuth protocols for secure authentication, ensuring data integrity and user privacy.
+- Proficient in integrating with various third-party platforms such as Salesforce, SAP, and Shopify.
+- Leveraging MERN (MongoDB, ExpressJS, ReactJS, NodeJS) stack for comprehensive development.
+- Crafting captivating Mobile Apps using React Native for seamless user experiences.
+- Creating dynamic and responsive user interfaces with ReactJS.
+- Extensive experience in eCommerce, Payment, CRM, and Enterprise Systems.
+- Proficient in Shopify and SAP integrations for versatile solutions.
 
 ---
 
