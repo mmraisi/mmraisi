@@ -10,11 +10,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-- :telescope: I'm a Full-Stack Developer with a passion for building robust and scalable web applications.
-
-- :seedling: Currently building mobile applications using (Swift, Kotlin, and React-Native).
-
-- :zap: In my free time, I build single-page web apps using React.js.
+:zap: I'm a seasoned Software Engineer with a passion for crafting robust and scalable solutions. Over the years, I've honed my skills in various domains of software development, specializing in backend, frontend, mobile, and data engineering. Here's a brief overview of my technical expertise:
 
 ---
 
@@ -30,10 +26,18 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="Graphql" **alt="Graphql" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" **alt="Csharp" width="40" height="40"/>
 </div>
 
 ---
+### Connect With Me:
 
-### Connect With me :
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mahmoudmraisi/)
-
+<div>
+  <a href="https://www.linkedin.com/in/mahmoudmraisi/" style="text-decoration:none;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="50" height="50">
+  </a>
+  <a href="mailto:mahmoudmraisi2@gmail.com" style="text-decoration:none;">
+    <img src="https://github.com/mmraisi/mmraisi/assets/67347986/12e7fe05-45ec-40fb-b613-66121ea41e76" width="50" height="50">
+  </a>
+</div>
