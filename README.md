@@ -55,3 +55,11 @@ Dedicated to advancing the backend landscape and specializing in OAuth and authe
     <img src="https://github.com/mmraisi/mmraisi/assets/67347986/12e7fe05-45ec-40fb-b613-66121ea41e76" width="50" height="50">
   </a>
 </div>
+
+
+<div>
+
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mmraisi&show_icons=true&locale=en&layout=compact&theme=dark" alt="mmraisi" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mmraisi&show_icons=true&locale=en&theme=dark" alt="mmraisi" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mmraisi&&theme=dark" alt="mmraisi" /></p>
+</div>
