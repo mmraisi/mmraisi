@@ -43,8 +43,3 @@ Mahmoud is a Full Stack Software Engineer with expertise spanning OAuth, Authent
 - [mahmoudmraisi.com](https://mahmoudmraisi.com)
 - [LinkedIn](https://www.linkedin.com/in/mahmoudmraisi)
 - [NPM](https://www.npmjs.com/~mmraisi)
-
-
-<div>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mmraisi&&theme=dark" alt="mmraisi" /></p>
-</div>
