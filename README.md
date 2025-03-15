@@ -14,4 +14,3 @@ I have led and contributed to backend initiatives that enhance system reliabilit
 ### Find me on:
 - [mahmoudmraisi.com](https://mahmoudmraisi.com)
 - [LinkedIn](https://www.linkedin.com/in/mahmoudmraisi)
-- [NPM](https://www.npmjs.com/~mmraisi)
