@@ -1,10 +1,4 @@
 </div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
-
 ## Backend Software Engineer | Microservices, API Architecture, Cloud, and Authentication
 
 Passionate about designing and scaling backend systems that power high-performance applications. With a strong foundation in microservices architecture, API design, and cloud infrastructure, I specialize in building secure, scalable, and resilient backend solutions. My expertise spans authentication protocols, identity management, and optimizing system performance for enterprise-scale applications.
